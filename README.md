@@ -84,6 +84,8 @@ Log out → select **Hyprland session** → log in
 
 ---
 
+(I will make a proper script for downloading these files after exams heh)
+
 If you have any questions leave a message on this discord server
 https://discord.gg/GhN67xTD
 
@@ -112,7 +114,8 @@ https://discord.gg/GhN67xTD
 | Ending Screen recording  | `Super + Shift + R`  |
 ---
 
-If you like this setup, consider starring the repo! <3
+
+### If you like this setup, consider starring the repo! <3
 
 
 ## Screenshots
