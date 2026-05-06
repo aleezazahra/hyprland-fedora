@@ -1,6 +1,5 @@
-# Hyprland Fedora Config
+# 🌸 Hyprland Fedora Config
 
-##### first ever ugly ah rice js how I like em
 ---
 
 ## Features
@@ -18,13 +17,15 @@
 ---
 # How to use these files
 
+
+
 ## Installation
 
-### 1. Clone the repo
+### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/aleezazahra/hyprland-fedora.git
+cd hyprland-fedora
 ```
 
 ---
@@ -32,7 +33,7 @@ cd yourrepo
 ### 2. Install dependencies
 
 ```bash
-sudo dnf install hyprland kitty waybar wofi wlogout wl-clipboard grim slurp
+sudo dnf install hyprland kitty waybar wofi wlogout fastfetch wl-clipboard grim slurp
 ```
 
 ---
@@ -40,11 +41,14 @@ sudo dnf install hyprland kitty waybar wofi wlogout wl-clipboard grim slurp
 ### 3. Copy config files
 
 ```bash
+mkdir -p ~/.config
+
 cp -r hypr ~/.config/
 cp -r kitty ~/.config/
 cp -r waybar ~/.config/
 cp -r wofi ~/.config/
 cp -r wlogout ~/.config/
+cp -r fastfetch ~/.config/
 ```
 
 ---
@@ -66,24 +70,29 @@ chmod +x autostart.sh setup.sh setwall.sh
 
 ---
 
-### 6.Run autostart
+### 6. Run setup script (optional)
 
 ```bash
-./autostart.sh
+./setup.sh
 ```
 
 ---
 
-### 7. Launch Hyprland
+### 7. Start Hyprland
 
 Log out → select **Hyprland session** → log in
 
 ---
 
+If you have any questions leave a message on this discord server
+https://discord.gg/GhN67xTD
+
+
 ## Notes
 
-* Made for Fedora + Hyprland (Wayland)
+* Made for **Fedora + Hyprland (Wayland)**
 * Backup your old configs before copying
+* Some configs may need minor tweaks depending on your system
 
 
 
@@ -102,6 +111,9 @@ Log out → select **Hyprland session** → log in
 | Screen Recording  | `Super + R`  |
 | Ending Screen recording  | `Super + Shift + R`  |
 ---
+
+If you like this setup, consider starring the repo! <3
+
 
 ## Screenshots
 <img width="1367" height="768" alt="image" src="https://github.com/user-attachments/assets/7d7c36eb-efa2-4d70-b78a-760fc5567c98" />
