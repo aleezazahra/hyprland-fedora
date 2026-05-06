@@ -13,9 +13,100 @@
 - Screenshotting -grim
 - Screenrecording - wf-recorder
 - shell - zsh
-  
+
 
 ---
+
+##  Requirements
+
+* Fedora (recommended latest)
+* Wayland session
+* Hyprland
+
+---
+
+## Packages
+
+Install the required packages:
+
+```bash
+sudo dnf install hyprland kitty waybar wofi wlogout wl-clipboard grim slurp
+```
+
+You may need additional packages depending on your system.
+
+---
+
+##  Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/yourrepo.git
+cd yourrepo
+```
+
+---
+
+### 2. Copy config files
+
+```bash
+cp -r hypr ~/.config/
+cp -r kitty ~/.config/
+cp -r waybar ~/.config/
+cp -r wofi ~/.config/
+cp -r wlogout ~/.config/
+```
+
+---
+
+### 3. Setup wallpapers
+
+```bash
+mkdir -p ~/Pictures/wallpapers
+cp -r wallpapers/* ~/Pictures/wallpapers/
+```
+
+---
+
+### 4. Make scripts executable
+
+```bash
+chmod +x autostart.sh setup.sh setwall.sh
+```
+
+---
+
+### 5. (Optional) Run autostart script
+
+```bash
+./autostart.sh
+```
+
+---
+
+### 6. Start Hyprland
+
+Log out → select **Hyprland** session → log in
+
+---
+
+
+---
+
+## Notes
+
+* This setup is made for **Fedora + Hyprland (Wayland)**
+* Backup your existing configs before copying
+* Some elements may require manual tweaking depending on your system
+
+---
+
+
+
+## ⭐ Support
+
+If you like this setup, consider starring the repo!
 
 
 
