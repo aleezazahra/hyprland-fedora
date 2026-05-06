@@ -16,30 +16,11 @@
 
 
 ---
+# How to use these files
 
-##  Requirements
+## Installation
 
-* Fedora (recommended latest)
-* Wayland session
-* Hyprland
-
----
-
-## Packages
-
-Install the required packages:
-
-```bash
-sudo dnf install hyprland kitty waybar wofi wlogout wl-clipboard grim slurp
-```
-
-You may need additional packages depending on your system.
-
----
-
-##  Installation
-
-### 1. Clone the repository
+### 1. Clone the repo
 
 ```bash
 git clone https://github.com/yourusername/yourrepo.git
@@ -48,7 +29,15 @@ cd yourrepo
 
 ---
 
-### 2. Copy config files
+### 2. Install dependencies
+
+```bash
+sudo dnf install hyprland kitty waybar wofi wlogout wl-clipboard grim slurp
+```
+
+---
+
+### 3. Copy config files
 
 ```bash
 cp -r hypr ~/.config/
@@ -60,7 +49,7 @@ cp -r wlogout ~/.config/
 
 ---
 
-### 3. Setup wallpapers
+### 4. Setup wallpapers
 
 ```bash
 mkdir -p ~/Pictures/wallpapers
@@ -69,7 +58,7 @@ cp -r wallpapers/* ~/Pictures/wallpapers/
 
 ---
 
-### 4. Make scripts executable
+### 5. Make scripts executable
 
 ```bash
 chmod +x autostart.sh setup.sh setwall.sh
@@ -77,7 +66,7 @@ chmod +x autostart.sh setup.sh setwall.sh
 
 ---
 
-### 5. (Optional) Run autostart script
+### 6.Run autostart
 
 ```bash
 ./autostart.sh
@@ -85,32 +74,19 @@ chmod +x autostart.sh setup.sh setwall.sh
 
 ---
 
-### 6. Start Hyprland
+### 7. Launch Hyprland
 
-Log out → select **Hyprland** session → log in
-
----
-
+Log out → select **Hyprland session** → log in
 
 ---
 
 ## Notes
 
-* This setup is made for **Fedora + Hyprland (Wayland)**
-* Backup your existing configs before copying
-* Some elements may require manual tweaking depending on your system
-
----
+* Made for Fedora + Hyprland (Wayland)
+* Backup your old configs before copying
 
 
 
-## ⭐ Support
-
-If you like this setup, consider starring the repo!
-
-
-
----
 
 ## Keybindings
 
