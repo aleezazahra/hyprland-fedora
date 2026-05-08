@@ -33,7 +33,7 @@ cd hyprland-fedora
 ### 2. Install dependencies
 
 ```bash
-sudo dnf install hyprland kitty waybar wofi wlogout fastfetch wl-clipboard grim slurp
+sudo dnf install hyprland kitty waybar wofi wlogout fastfetch wl-clipboard grim slurp pywal
 ```
 
 ---
