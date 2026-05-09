@@ -1,4 +1,4 @@
-# 🌸 Hyprland Fedora Config
+# 🌸 Hyprland Fedora Dotfiles
 
 ---
 
@@ -70,7 +70,7 @@ chmod +x autostart.sh setup.sh setwall.sh
 
 ---
 
-### 6. Run setup script (optional)
+### 6. Run setup script (optional coz it's for symlinks hm)
 
 ```bash
 ./setup.sh
@@ -109,13 +109,15 @@ https://discord.gg/pfZY7DASk
 | Close Window               | `Super + C`             |
 | Switch Workspace           | `Super + 1..9`          |
 | Move Window to Workspace   | `Super + Shift + 1..9`  |
-| Screenshot                 | `SHift +PrintScreen`          |
+| Screenshot                 | `Shift +PrintScreen`          |
 | Screen Recording  | `Super + R`  |
 | Ending Screen recording  | `Super + Shift + R`  |
 ---
 
 
+
 ### If you like this setup, consider starring the repo! <3
+
 
 
 ## Screenshots
