@@ -1,4 +1,4 @@
-#symlinks 
+
 
 
 mkdir -p ~/.config 
