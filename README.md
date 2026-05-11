@@ -124,13 +124,14 @@ https://discord.gg/pfZY7DASk
 (MIKU MIKU MIKU MIKU )
 <img width="1361" height="769" alt="image" src="https://github.com/user-attachments/assets/2b03de0d-73cd-4b89-96fb-b9eef9a295c8" />
 
+<img width="1366" height="769" alt="image" src="https://github.com/user-attachments/assets/f2e9ed2e-7836-49aa-8ebe-e45f36471ddb" />
+
+
 
 <img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/55af4d95-efa6-4db7-95c3-e84527538798" />
 
 
 <img width="1367" height="769" alt="2026-02-03-223226_hyprshot" src="https://github.com/user-attachments/assets/5a6e47ae-9758-4905-b292-2011294dcc8b" />
-<img width="1367" height="769" alt="2026-02-03-223252_hyprshot" src="https://github.com/user-attachments/assets/e496b9c8-0c81-4d7d-a811-4469955ceba7" />
-
 
 
 
