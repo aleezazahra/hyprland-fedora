@@ -121,7 +121,9 @@ https://discord.gg/pfZY7DASk
 
 
 ## Screenshots
-<img width="1367" height="768" alt="image" src="https://github.com/user-attachments/assets/7d7c36eb-efa2-4d70-b78a-760fc5567c98" />
+(MIKU MIKU MIKU MIKU )
+<img width="1361" height="769" alt="image" src="https://github.com/user-attachments/assets/2b03de0d-73cd-4b89-96fb-b9eef9a295c8" />
+
 
 <img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/55af4d95-efa6-4db7-95c3-e84527538798" />
 
