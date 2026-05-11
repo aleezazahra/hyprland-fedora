@@ -127,7 +127,6 @@ https://discord.gg/pfZY7DASk
 
 <img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/55af4d95-efa6-4db7-95c3-e84527538798" />
 
-<img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/3773b6dd-bd34-426f-9e4d-184e8583cf8e" />
 
 <img width="1367" height="769" alt="2026-02-03-223226_hyprshot" src="https://github.com/user-attachments/assets/5a6e47ae-9758-4905-b292-2011294dcc8b" />
 <img width="1367" height="769" alt="2026-02-03-223252_hyprshot" src="https://github.com/user-attachments/assets/e496b9c8-0c81-4d7d-a811-4469955ceba7" />
