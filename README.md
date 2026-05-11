@@ -123,13 +123,8 @@ https://discord.gg/pfZY7DASk
 ## Screenshots
 <img width="1367" height="768" alt="image" src="https://github.com/user-attachments/assets/7d7c36eb-efa2-4d70-b78a-760fc5567c98" />
 
-<img width="1367" height="769" alt="2026-02-03-222843_hyprshot" src="https://github.com/user-attachments/assets/6e72767a-26ae-48bd-8472-48f213c2c367" />
+<img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/55af4d95-efa6-4db7-95c3-e84527538798" />
 
-
-
-
-
-<img width="1367" height="769" alt="2026-02-03-223147_hyprshot" src="https://github.com/user-attachments/assets/530aed8d-1c37-425e-bb92-445e2f977ea5" />
 <img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/3773b6dd-bd34-426f-9e4d-184e8583cf8e" />
 
 <img width="1367" height="769" alt="2026-02-03-223226_hyprshot" src="https://github.com/user-attachments/assets/5a6e47ae-9758-4905-b292-2011294dcc8b" />
