@@ -135,6 +135,9 @@ https://discord.gg/pfZY7DASk
 
 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V71ZEYNY)
+
+
 
 
 
