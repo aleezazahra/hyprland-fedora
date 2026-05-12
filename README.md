@@ -89,6 +89,8 @@ Log out → select **Hyprland session** → log in
 If you have any questions leave a message on this discord server
 https://discord.gg/pfZY7DASk
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V71ZEYNY)
+
 
 ## Notes
 
@@ -135,7 +137,7 @@ https://discord.gg/pfZY7DASk
 
 
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V71ZEYNY)
+
 
 
 
