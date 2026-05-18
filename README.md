@@ -83,14 +83,6 @@ chmod +x autostart.sh setup.sh setwall.sh
 Log out → select **Hyprland session** → log in
 
 ---
-
-(I will make a proper script for downloading these files after exams heh)
-
-If you have any questions leave a message on this discord server
-https://discord.gg/pfZY7DASk
-
-
-
 ## Notes
 
 * Made for **Fedora + Hyprland (Wayland)**
