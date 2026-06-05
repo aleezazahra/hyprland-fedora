@@ -115,7 +115,8 @@ Log out → select **Hyprland session** → log in
 
 ## Screenshots
 (MIKU MIKU MIKU MIKU )
-<img width="1361" height="769" alt="image" src="https://github.com/user-attachments/assets/2b03de0d-73cd-4b89-96fb-b9eef9a295c8" />
+<img width="1367" height="769" alt="image" src="https://github.com/user-attachments/assets/d584da4b-b890-4dea-8945-1f172d187f43" />
+
 
 <img width="1366" height="769" alt="image" src="https://github.com/user-attachments/assets/f2e9ed2e-7836-49aa-8ebe-e45f36471ddb" />
 
