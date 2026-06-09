@@ -1,0 +1,121 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "~/hyprlnd/fastfetch/mikuu.png",
+        "type": "kitty-icat",
+        "padding": {
+            "top": 2,
+            "right": 4
+        },
+        "width": 30,
+        "height": 28
+    },
+    "display": {
+        "separator": "   ",
+        "color": "cyan"
+    },
+    "modules": [
+        "break",2
+        {
+            "type": "title",
+            "format": "   {6}{7}{8}"
+        },
+        {
+            "type": "custom",
+            "format": "─────────────────────────────────────────────────"
+        },
+        {
+            "type":"custom"
+        },
+        {
+            "type": "os",
+            "key": "  OS      ",
+            "keyColor": "blue",
+            "format": "{3} {11}"
+        },
+        {
+            "type": "kernel",
+            "key": "  Kernel  ",
+            "keyColor": "cyan",
+            "format": "{2}"
+        },
+        {
+            "type": "wm",
+            "key": "  WM      ",
+            "keyColor": "magenta",
+            "format": "{2} ({1})"
+        },
+        {
+            "type": "shell",
+            "key": "  Shell   ",
+            "keyColor": "cyan",
+            "format": "{1} {4}"
+        },
+        {
+            "type": "terminal",
+            "key": "  Term    ",
+            "keyColor": "blue",
+            "format": "{1} {3}"
+        },
+        {
+            "type": "terminalfont",
+            "key": "  Font    ",
+            "keyColor": "magenta"
+        },
+        {
+            "type": "packages",
+            "key": " 󰏖 Pkgs    ",
+            "keyColor": "cyan"
+        },
+        {
+            "type": "uptime",
+            "key": " 󰔛 Uptime  ",
+            "keyColor": "magenta"
+        },
+    
+        {
+            "type": "cpu",
+            "key": "  CPU     ",
+            "keyColor": "cyan",
+            "format": "{1}"
+        },
+        {
+            "type": "gpu",
+            "key": " 󰢮 GPU     ",
+            "keyColor": "blue",
+            "format": "{1} {2}"
+        },
+        {
+            "type": "memory",
+            "key": " 󰍛 Memory  ",
+            "keyColor": "magenta",
+            "format": "({1} / {2}) {4}"
+        },
+        {
+            "type": "disk",
+            "key": " 󰋊 Storage ",
+            "keyColor": "cyan",
+            "format": "({1} / {2}) {9}"
+        },
+        {
+            "type": "battery",
+            "key": "  Battery ",
+            "keyColor": "green",
+            "format": "{1} [{4}]"
+        },
+        {
+            "type": "localip",
+            "key": " 󰩟 Network ",
+            "keyColor": "yellow",
+            "showLoop": false
+        },
+        
+        "break",
+        {
+            "type": "colors",
+            "symbol": "circle",
+            "paddingLeft": 3
+        },
+        "break"
+    ]
+}
