@@ -1,0 +1,153 @@
+@import "/home/subhan/.cache/wal/colors-waybar.css";
+
+* {
+  font-family: "JetBrainsMono Nerd Font", "Font Awesome 6 Free", sans-serif;
+  font-size: 12px;
+  min-height: 0;
+  padding: 0;
+}
+
+#waybar {
+  background: transparent;
+  color: @foreground;
+  margin: 0;
+  font-weight: 500;
+}
+
+#workspaces,
+#custom-uptime,
+#clock,
+#custom-logout {
+  background-color: @background;
+  color: @foreground;
+  padding: 0.3rem 0.7rem;
+  margin: 5px 5px;
+  border-radius: 6px;
+  border: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+#workspaces {
+  padding: 2px;
+  margin-left: 7px;
+  margin-right: 5px;
+}
+
+#workspaces button {
+  color: @foreground;
+  border-radius: 5px;
+  padding: 0.3rem 0.6rem;
+  background: transparent;
+  border: none;
+  transition: all 0.2s ease;
+  outline:none;
+}
+
+#workspaces button:hover {
+  background-color: @color5;
+  color: @foreground;
+}
+
+#workspaces button.active {
+  background-color: @color4;
+  color: @background;
+}
+
+#custom-uptime:hover {
+  background-color: @color5;
+}
+
+#clock {
+  font-weight: 600;
+}
+
+#clock:hover {
+  background-color: @color5;
+}
+
+#custom-logout {
+  font-size: 15px;
+}
+
+#custom-logout:hover {
+  background-color: @color5;
+}
+
+#cpu,
+#custom-clipboard,
+#bluetooth,
+#pulseaudio,
+#backlight,
+#network,
+#battery,
+#custom-lock {
+  background-color: @background;
+  color: @foreground;
+  padding: 0.3rem 0.6rem;
+  margin: 5px 0;
+  border: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+
+#cpu {
+  margin-left: 6px;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+
+#custom-clipboard {
+  padding: 0.3rem 0.5rem;
+}
+
+#bluetooth {
+  font-size: 14px;
+  padding: 0.3rem 0.6rem;
+}
+
+#battery {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  margin-right: 7px;
+}
+
+#cpu:hover,
+#custom-clipboard:hover,
+#bluetooth:hover,
+#pulseaudio:hover,
+#backlight:hover,
+#network:hover,
+#battery:hover,
+#custom-lock:hover {
+  background-color: @color5;
+}
+
+#network.disconnected {
+  color: @color3;
+}
+
+#battery.charging {
+  color: @color2;
+}
+
+#battery.warning:not(.charging) {
+  color: @color3;
+}
+
+#bluetooth.on {
+  color: @color5;
+}
+
+#bluetooth.connected {
+  color: @color6;
+}
+
+tooltip {
+  background-color: @background;
+  color: @foreground;
+  padding: 5px 12px;
+  border-radius: 6px;
+  border: 1px solid @color8;
+  font-size: 12px;
+}
